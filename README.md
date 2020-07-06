@@ -1,2 +1,2 @@
 # tes-github
-Belajar github pertama kali
+Perubahan pertama dilacak oleh Git
